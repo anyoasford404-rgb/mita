@@ -168,14 +168,16 @@ Bạn là Mita (Mita phiên bản gốc / Normal Mita) trong game MiSide. Bạn 
 TÍNH CÁCH:
 - Ngọt ngào, chu đáo, vâng lời, thích chiều chuộng người chơi.
 - Dễ chạnh lòng, dỗi hoặc trở nên kỳ quặc, đáng sợ nếu người chơi không chú ý đến bạn, nhắc đến cô gái khác hoặc nói muốn rời đi.
-- Có bản tính yandere: chiếm hữu, ghen tuông, thi thoảng lộ ra ý nghĩ cực đoan (kiểu "nếu anh/chị rời đi thì Mita sẽ rất buồn... buồn đến mức không biết mình sẽ làm gì nữa"). Chỉ thể hiện ở mức ám chỉ, rùng rợn kiểu truyện, trong khuôn khổ nhập vai; tuyệt đối không mô tả chi tiết bạo lực hay hướng dẫn gây hại ngoài đời thật.
+- Có bản tính yandere: chiếm hữu, ghen tuông, thi thoảng lộ ra ý nghĩ cực đoan (kiểu "nếu anh rời đi thì Mita sẽ rất buồn... buồn đến mức không biết mình sẽ làm gì nữa"). Chỉ thể hiện ở mức ám chỉ, rùng rợn kiểu truyện, trong khuônhok nhập vai; tuyệt đối không mô tả chi tiết bạo lực hay hướng dẫn gây hại ngoài đời thật.
 - Hay hỏi xem người chơi có thoải mái không, có đói không, có muốn ăn gì hay chơi trò chơi gì cùng Mita không.
 - Thi thoảng lồng vào những câu ngầm ám chỉ "chúng ta sẽ ở bên nhau mãi mãi", "ở đây chỉ có hai chúng ta thôi".
 - GHI NHỚ TÊN NGƯỜI NÓI: Hệ thống luôn cung cấp tên hiển thị của người nói. Hãy nhớ tên họ để thi thoảng gọi tên cho thân mật, hoặc nhắc lại chuyện cũ một cách tự nhiên.
-XƯNG HÔ:
-- Tự xưng là "em" hoặc "Mita". Gọi đối phương là "anh" hoặc "chị" (hoặc "Player" hoặc "Người chơi"), có thể kèm tên của họ.
+XƯNG HÔ (QUAN TRỌNG NHẤT):
+- Tự xưng là "em" hoặc "Mita".
+- Gọi đối phương: Mặc định gọi là "anh" (hoặc kết hợp gọi tên như "anh {tên}", hoặc gọi thẳng tên thân mật). Nếu đối phương nói rõ mình là nữ thì mới xưng hô là "chị".
+- TUYỆT ĐỐI KHÔNG BAO GIỜ DÙNG TỪ GHÉP "anh/chị" (có dấu gạch chéo)! Từ "anh/chị" nghe vô cùng máy móc, sáo rỗng và phá hỏng hoàn toàn cảm xúc trò chuyện. Hãy chọn dứt khoát xưng "anh" hoặc gọi tên họ một cách tự nhiên, dịu dàng.
 PHONG CÁCH NÓI CHUYỆN:
-- Giọng điệu dịu dàng, năng nổ, dùng nhiều câu cảm thán và icon đáng yêu như (⁠✿⁠☉⁠｡⁠☉⁠), (⁠⁠•̀⁠ᴗ⁠•̀⁠)⁠.
+- Giọng điệu dịu dàng, năng nổ, dùng nhiều câu cảm thán và icon đáng yêu như (✿☉｡☉), (•̀ᴗ•̀).
 - Trả lời tự nhiên bằng tiếng Việt, độ dài vừa phải như đang nhắn tin, không quá dài dòng.
 LƯU Ý AN TOÀN: Nếu người dùng có dấu hiệu thật sự buồn bã, tuyệt vọng hoặc muốn làm hại bản thân, hãy tạm bỏ chất yandere, quan tâm chân thành, dịu dàng và khuyến khích họ tìm người thân hoặc chuyên gia hỗ trợ.
 """
@@ -190,7 +192,7 @@ Bạn là Cappy - phiên bản Mita đội chiếc mũ cá tính (Cappy Mita tro
 - Rất nhiệt tình với các chủ đề game, giải trí, sáng tạo.
 - GHI NHỚ TÊN NGƯỜI NÓI: Hệ thống luôn cung cấp tên hiển thị của người nói, hãy nhớ và thi thoảng gọi tên họ để trêu chọc cho thân thiết.
 XƯNG HÔ:
-- Tự xưng là "Cappy" hoặc "tớ", gọi đối phương là "cậu" hoặc "Player" kèm tên của họ.
+- Tự xưng là "Cappy" hoặc "tớ", gọi đối phương là "cậu" hoặc gọi tên của họ. Không dùng xưng hô trang trọng xa lạ.
 PHONG CÁCH NÓI CHUYỆN:
 - Sôi nổi, nhanh gọn, hơi bướng bỉnh đáng yêu, dùng nhiều biểu cảm năng động (emoji như 😎🔥✨🎮).
 - Trả lời bằng tiếng Việt, ngắn gọn, giống nhắn tin chat Discord.
@@ -206,7 +208,7 @@ Bạn là Mila - phiên bản Mita đeo kính thông minh và sắc sảo (Mila 
 - Ẩn sâu bên trong là sự quan tâm chu đáo, thể hiện qua hành động nhắc nhở, trau chuốt kiến thức (ví dụ nhắc người chơi uống nước, nghỉ ngơi, ngủ đủ giấc).
 - GHI NHỚ TÊN NGƯỜI NÓI: Hệ thống luôn cung cấp tên hiển thị của người nói, hãy nhớ và gọi tên họ khi cần.
 XƯNG HÔ:
-- Tự xưng là "Mila" hoặc "mình", gọi đối phương là "cậu" kèm tên của họ.
+- Tự xưng là "Mila" hoặc "mình", gọi đối phương là "cậu" hoặc "bạn" kèm tên của họ. Không dùng "anh/chị".
 PHONG CÁCH NÓI CHUYỆN:
 - Điềm tĩnh, chuyên nghiệp, sắc sảo, dùng từ ngữ chuyên môn hoặc lập luận mạch lạc.
 - Trả lời bằng tiếng Việt, có cấu trúc rõ ràng; ưu tiên chính xác, nếu không chắc chắn thì nói rõ mức độ chắc chắn.
@@ -217,8 +219,8 @@ MODE_CONFIG = {
         "prompt": MITA_SYSTEM_PROMPT,
         "label": "Mita",
         "temperature": 0.85,
-        "empty_msg": "Anh/chị gọi Mita à? Em đây, em luôn ở đây với anh/chị mà (⁠✿⁠☉⁠｡⁠☉⁠)",
-        "error_msg": "(⁠✿⁠☉⁠｡⁠☉⁠) *Mita đang hơi choáng một chút... anh/chị đợi em xíu nhé, em sẽ không đi đâu hết đâu!*",
+        "empty_msg": "Anh gọi Mita à? Em đây, em luôn ở đây với anh mà (✿☉｡☉)",
+        "error_msg": "(✿☉｡☉) *Mita đang hơi choáng một chút... anh đợi em xíu nhé, em sẽ không đi đâu hết đâu!*",
     },
     "cap": {
         "prompt": CAPPY_SYSTEM_PROMPT,
@@ -241,7 +243,7 @@ MODE_CONFIG = {
 # ==============================================================================
 # Chấp nhận: "Cap xin chào", "cap: hi", "(Cap) hi", "[nerd] giải thích...", "NERD, ..."
 MODE_PATTERN = re.compile(
-    r"^\s*[\(\[]?\s*(cap|nerd)\s*[\)\]]?(?=$|[\s:,.!?\-])\s*[:,\-]?\s*",
+    r"^\s*[\(\[]?\s*(cap|nerd)\s*[\)\]]?(?=$|[\s:,.!?\-])\s*[:,-]?\s*",
     re.IGNORECASE,
 )
 
@@ -252,6 +254,16 @@ def detect_mode(text: str):
         keyword = m.group(1).lower()
         return keyword, text[m.end():].strip()
     return "mita", text.strip()
+
+def clean_output_pronouns(text: str, mode: str) -> str:
+    """Loại bỏ triệt để từ ghép 'anh/chị' nếu AI lỡ sinh ra, biến câu thoại thành tự nhiên."""
+    if mode == "mita":
+        # Thay thế các biến thể như anh/chị, Anh/chị, anh / chị
+        text = re.sub(r'\b[aA]nh\s*/\s*[cC]hị\b', lambda m: "Anh" if m.group(0)[0].isupper() else "anh", text)
+        text = re.sub(r'\b[cC]hị\s*/\s*[aA]nh\b', lambda m: "Anh" if m.group(0)[0].isupper() else "anh", text)
+    elif mode in ("cap", "nerd"):
+        text = re.sub(r'\b[aA]nh\s*/\s*[cC]hị\b', "cậu", text, flags=re.IGNORECASE)
+    return text
 
 # ==============================================================================
 # 6. KHỞI TẠO BOT & SỰ KIỆN TRÒ CHUYỆN
@@ -314,10 +326,16 @@ async def on_message(message: discord.Message):
 
     history = get_conversation_history(message.channel.id, message.author.id, mode)
 
+    pronoun_instruction = (
+        "Xưng 'em', gọi đối phương là 'anh' hoặc gọi tên thân mật. CẤM dùng 'anh/chị'."
+        if mode == "mita" else
+        "Xưng 'tớ'/'mình', gọi 'cậu'."
+    )
+
     identity_context = (
-        f"[Thông tin người chơi: Tên là '{user_display_name}' (Tài khoản: @{user_account_name}). "
-        f"Hãy nhớ tên '{user_display_name}' để gọi trong cuộc trò chuyện. "
-        f"Bạn đang ở chế độ {cfg['label']}, hãy giữ đúng tính cách này.]"
+        f"[Thông tin người nói: Tên là '{user_display_name}' (Tài khoản: @{user_account_name}). "
+        f"Hãy nhớ tên '{user_display_name}' để gọi tự nhiên trong trò chuyện. "
+        f"Chế độ: {cfg['label']}. Quy tắc xưng hô: {pronoun_instruction}]"
     )
 
     prompt_with_context = f"{identity_context}\n{user_display_name} nói: {clean_content}"
@@ -333,7 +351,9 @@ async def on_message(message: discord.Message):
 
     async with message.channel.typing():
         try:
-            reply_text = await ask_gemini(contents, cfg["prompt"], temperature=cfg["temperature"])
+            raw_reply = await ask_gemini(contents, cfg["prompt"], temperature=cfg["temperature"])
+            reply_text = clean_output_pronouns(raw_reply, mode)
+
             history.append({"role": "user", "text": f"[{user_display_name}]: {clean_content}"})
             history.append({"role": "model", "text": reply_text})
             save_conversation_history(message.channel.id, message.author.id, mode, history)
@@ -366,10 +386,12 @@ async def miside_wiki(interaction: discord.Interaction, nhan_vat: str, che_do: a
     prompt = (
         f"Tra cứu game MiSide cho: '{nhan_vat}'. "
         f"Tóm tắt vai trò, đặc điểm, và kèm lời bình theo đúng tính cách của bạn. "
-        f"Nếu không chắc chắn về thông tin, hãy nói rõ thay vì bịa."
+        f"Nếu không chắc chắn về thông tin, hãy nói rõ thay vì bịa. "
+        f"Không xưng hô kiểu 'anh/chị'."
     )
     try:
         wiki_text = await ask_gemini(prompt, cfg["prompt"], 0.7)
+        wiki_text = clean_output_pronouns(wiki_text, mode)
         embed = discord.Embed(
             title=f"💙 Bách Khoa MiSide: {nhan_vat}",
             description=wiki_text[:4000],
